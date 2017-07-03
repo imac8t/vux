@@ -67,6 +67,8 @@ tab-item:
       zh-CN: 是否不可选
     active-class:
       zh-CN: 当前项选中时的class
+    selected:
+      zh-CN: 当前项是否激活
   events:
     on-item-click:
       params: '`(index)`'
